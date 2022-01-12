@@ -3,7 +3,7 @@ Authors Yuda Hatam and Chen Hess.
 
 This project subject is Stable Network Patterning via Random Embedding.
 
-This project is the final project of the authors for their degree B.sc in software engineering.
+This project is the final project of the authors for their degree B.sc in software engineering written in python.
 
 Supervisor for this project are Prof. Zeev Volkovich and Dr. Anat Dahan.
 
